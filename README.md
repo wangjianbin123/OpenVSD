@@ -1,5 +1,7 @@
 # OpenVSD
 open source simulation code for railway vehicle system dynamics
+ref:
+Wang, J., Song, C., Zhang, D., Li, D., and Qu, S. (November 17, 2022). "Fast and Stable Iterative Algorithm for Searching Wheel–Rail Contact Point Based on Geometry Constraint Equations." ASME. J. Comput. Nonlinear Dynam. January 2023; 18(1): 011004. https://doi.org/10.1115/1.4056134
 
 1 general framework
 ![image](https://user-images.githubusercontent.com/32986090/185839262-2ca302ff-e439-4583-9ecf-c6c595e90ae6.png)
